@@ -36,7 +36,7 @@ docker run -d skype-bot
 ```
 or run using Docker Compose
 
-Start the Services:
+Start the Bot:
 ```bash
 docker-compose up -d
 ```
