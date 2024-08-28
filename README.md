@@ -1,5 +1,3 @@
-# skype-listener
-=======
 # Skype Listener
 
 A Python-based Skype bot that listens to a Skype group for cellphone numbers, updates a MySQL database with the user information, and returns the user ID.
