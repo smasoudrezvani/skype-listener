@@ -19,7 +19,7 @@ A Python-based Skype bot that listens to a Skype group for cellphone numbers, up
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/skype-bot-listener.git
+git clone https://github.com/smasoudrezvani/skype-listener.git
 cd skype-bot-listener
 ```
 Running with Docker
