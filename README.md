@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # skype-listener
 =======
 # Skype Listener
@@ -41,4 +40,3 @@ Start the Services:
 ```bash
 docker-compose up -d
 ```
->>>>>>> 6989764 (Initial commit)
